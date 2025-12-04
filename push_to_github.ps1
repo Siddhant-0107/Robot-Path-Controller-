@@ -3,7 +3,7 @@
 
 # Configuration
 $GITHUB_USERNAME = "Siddhant-0107"
-$REPO_NAME = "Robot-Path-Controller-"
+$REPO_NAME = "Robot-Path-Controller"
 
 # Initialize git if not already done
 if (-not (Test-Path ".git")) {
