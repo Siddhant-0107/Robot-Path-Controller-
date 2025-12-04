@@ -1,9 +1,9 @@
 # GitHub Push Script for Robotics Project
 # Run this script in PowerShell from the project directory
 
-# Configuration - UPDATE THESE VALUES
-$GITHUB_USERNAME = "Siddhant-0107"  # Replace with your GitHub username
-$REPO_NAME = "Robot-Path-Controller"        # Your repository name
+# Configuration
+$GITHUB_USERNAME = "Siddhant-0107"
+$REPO_NAME = "Robot-Path-Controller-"
 
 # Initialize git if not already done
 if (-not (Test-Path ".git")) {
